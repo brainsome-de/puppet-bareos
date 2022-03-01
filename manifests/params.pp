@@ -42,7 +42,7 @@ class bareos::params {
   ]
 
   # filedaemon/client
-  $client_package_name = ['bareos-filedaemon', 'bareos-filedaemon-python-plugin']
+  $client_package_name = ['bareos-filedaemon', 'bareos-filedaemon-python3-plugin']
   $client_service_name = 'bareos-fd'
 
   # storage
