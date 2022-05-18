@@ -46,7 +46,7 @@ class bareos::params {
   $client_service_name = 'bareos-fd'
 
   # storage
-  $storage_package_name = ['bareos-storage', 'bareos-storage-python-plugin', 'bareos-tools']
+  $storage_package_name = ['bareos-storage', 'bareos-storage-python3-plugin', 'bareos-tools']
   $storage_service_name = 'bareos-sd'
 
   # webui
