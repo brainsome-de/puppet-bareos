@@ -18,7 +18,7 @@ class bareos::params {
   # director
   $director_package_name = [
     'bareos-director',
-    'bareos-director-python-plugin',
+    'bareos-director-python3-plugin',
     'bareos-database-common',
     'bareos-database-mysql',
     'bareos-database-postgresql',
